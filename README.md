@@ -6,4 +6,5 @@ This repository in contrast to the [reference](https://github.com/engineeringpen
 
 ### Index - Organization to be completed later
 
-- [Reactive Resume](https://github.com/engineeringpenguins/minor-projects/tree/main/reactive-resume)
+- [Reactive Resume](https://github.com/engineeringpenguins/minor-projects/blob/main/reactive-resume.md)
+- [Modern ActiveDirectory](https://github.com/engineeringpenguins/minor-projects/blob/main/modern-ad.md)
